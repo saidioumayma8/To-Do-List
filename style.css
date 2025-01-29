@@ -2,3 +2,7 @@
     text-decoration: line-through;
     color: gray;
   }
+  .logo {
+    width: 100%;
+    padding: 10px;
+  }
